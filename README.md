@@ -15,18 +15,7 @@
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batataya&layout=compact&theme=synthwave" />
 <hr>
-<div class="specs-icons">
-  <h3 align="center">💻 My Specs </h3>
-  <br />
-  <p align="center">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=flat&logo=intel&logoColor=white" />
-    <img src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=flat&logo=nvidia&logoColor=white" />
-    <img src="https://img.shields.io/badge/RAM-32Gb-orange?style=flat&logo=corsair" />
-    <img src="https://img.shields.io/badge/ssd-960%20GB-red?style=flat&logo=westerndigital" />
-  </p>
 <div class="contact-info">
   <h4>📫 Where to find me</h4>
-  <a href="https://www.instagram.com/a.yanisss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   <a href="mailto:ayanasoares@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
  </div>
